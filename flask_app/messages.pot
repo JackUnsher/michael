@@ -1,0 +1,261 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-14 02:12+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+# Заголовки и надписи
+msgid "Michel - Industrial Mining"
+msgstr ""
+
+msgid "All rights reserved"
+msgstr ""
+
+# Навигация в хедере
+msgid "About"
+msgstr ""
+
+msgid "The benefits"
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+# Выбор языка
+msgid "EN"
+msgstr ""
+
+msgid "RU"
+msgstr ""
+
+# Hero секция
+msgid "Achieve your daily stable income"
+msgstr ""
+
+msgid "Explore unique opportunities. Harness the power of an industrial miner."
+msgstr ""
+
+msgid "Get a consultation"
+msgstr ""
+
+# About секция
+msgid "About Michel"
+msgstr ""
+
+msgid "Michel is a leading mining company with industrial-scale operations"
+msgstr ""
+
+msgid "Michel Industrial Mining is a pioneer in the mining industry, providing innovative solutions with state-of-the-art equipment and cutting-edge technology."
+msgstr ""
+
+msgid "Since our founding in 2018, we have been committed to excellence, offering our clients stable income opportunities through our industrial mining operations."
+msgstr ""
+
+msgid "Our team of experts has over 20 years of combined experience in the mining sector, ensuring optimal performance and maximized returns for all our partners."
+msgstr ""
+
+msgid "Discover our advantages"
+msgstr ""
+
+msgid "Years of experience"
+msgstr ""
+
+msgid "Active miners"
+msgstr ""
+
+msgid "Uptime guarantee"
+msgstr ""
+
+msgid "Technical support"
+msgstr ""
+
+# Benefits секция
+msgid "The benefits we provide"
+msgstr ""
+
+msgid "Why choose Michel Industrial Mining"
+msgstr ""
+
+msgid "Effortless access to passive income"
+msgstr ""
+
+msgid "No need to dig deeper into complex technical details or invest in and set up sophisticated equipment. Just select the right plan to activate a consistent source of your passive income."
+msgstr ""
+
+msgid "Return on investment surpassing traditional options"
+msgstr ""
+
+msgid "We collaborate with major mining pools, ensuring dependable service operation and – consequently – high ROI and consistent earnings."
+msgstr ""
+
+msgid "Security and peace of mind"
+msgstr ""
+
+msgid "Your investments and passive income are securely safeguarded with skilled professionals overseeing the entire infrastructure."
+msgstr ""
+
+msgid "Service transparency"
+msgstr ""
+
+msgid "The entire process is fully transparent for our clients. You can observe your rented resources' performance and track your earnings in your dashboard."
+msgstr ""
+
+msgid "Flexibility"
+msgstr ""
+
+msgid "Tailor your equipment rental conditions to meet your unique needs, with easy options for modifications as required."
+msgstr ""
+
+# Plan секция
+msgid "How it works"
+msgstr ""
+
+msgid "Follow simple steps to start earning passive income"
+msgstr ""
+
+msgid "Create an account"
+msgstr ""
+
+msgid "Register on our platform by providing basic information to set up your account. The process takes less than 5 minutes."
+msgstr ""
+
+msgid "Choose a mining plan"
+msgstr ""
+
+msgid "Browse through our available plans and select the one that best fits your investment goals and budget requirements."
+msgstr ""
+
+msgid "Make a payment"
+msgstr ""
+
+msgid "Complete your purchase using your preferred payment method. We support multiple cryptocurrencies and traditional payment options."
+msgstr ""
+
+msgid "Start earning"
+msgstr ""
+
+msgid "Your mining equipment starts working immediately after confirmation. Track your earnings in real-time through your personal dashboard."
+msgstr ""
+
+msgid "start mining now"
+msgstr ""
+
+msgid "No technical knowledge required"
+msgstr ""
+
+# FAQ секция
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Get answers to the most common questions about industrial mining"
+msgstr ""
+
+msgid "What is cryptocurrency mining?"
+msgstr ""
+
+msgid "Cryptocurrency mining is the process by which new cryptocurrency tokens are created and transactions are verified and added to a blockchain. It involves using computer hardware to solve complex mathematical problems that validate and secure the network, in exchange for which miners receive newly minted coins."
+msgstr ""
+
+msgid "How does Michel Industrial Mining work?"
+msgstr ""
+
+msgid "Michel Industrial Mining provides access to our state-of-the-art mining equipment through cloud mining contracts. We handle all the hardware setup, maintenance, and operational costs while you enjoy the mining rewards. You simply select a plan, make a payment, and start earning passive income from mining operations."
+msgstr ""
+
+msgid "What cryptocurrencies can I mine through your service?"
+msgstr ""
+
+msgid "Our service currently focuses on mining Bitcoin (BTC), Ethereum (ETH), and select other major cryptocurrencies with proven track records. We carefully choose the most profitable cryptocurrencies to mine based on market conditions and our advanced analytics."
+msgstr ""
+
+msgid "How quickly can I expect to see returns on my investment?"
+msgstr ""
+
+msgid "You will begin to see returns immediately after your mining contract is activated, with earnings being credited to your account daily. However, keep in mind that cryptocurrency mining is a long-term investment. The actual returns depend on several factors including the plan you choose, current mining difficulty, and cryptocurrency price fluctuations."
+msgstr ""
+
+msgid "Is mining experience or technical knowledge required?"
+msgstr ""
+
+msgid "No. We designed our service to be accessible to everyone, regardless of technical knowledge or mining experience. Our platform handles all the complex setup and maintenance tasks. You simply need to create an account, choose a plan, and make a payment. We take care of everything else."
+msgstr ""
+
+msgid "How do I withdraw my earnings?"
+msgstr ""
+
+msgid "You can withdraw your earnings at any time through your dashboard. We support withdrawals to most major cryptocurrency wallets and exchanges. Minimum withdrawal amounts and processing times vary depending on the cryptocurrency being withdrawn and network conditions."
+msgstr ""
+
+msgid "Have more questions? Contact us"
+msgstr ""
+
+# Footer секция
+msgid "Инновационные решения для промышленного майнинга. Мы предлагаем передовые технологии и экспертную поддержку для вашего бизнеса."
+msgstr ""
+
+msgid "Навигация"
+msgstr ""
+
+msgid "О компании"
+msgstr ""
+
+msgid "Преимущества"
+msgstr ""
+
+msgid "План работы"
+msgstr ""
+
+msgid "Вопросы и ответы"
+msgstr ""
+
+msgid "Контакты"
+msgstr ""
+
+msgid "Услуги"
+msgstr ""
+
+msgid "Промышленный майнинг"
+msgstr ""
+
+msgid "Консалтинг"
+msgstr ""
+
+msgid "Оборудование"
+msgstr ""
+
+msgid "Обслуживание"
+msgstr ""
+
+msgid "Обучение"
+msgstr ""
+
+msgid "123456, Россия, г. Москва, ул. Примерная, д. 1, офис 123"
+msgstr ""
+
+msgid "Все права защищены."
+msgstr ""
+
+msgid "Политика конфиденциальности"
+msgstr ""
+
+msgid "Условия использования"
+msgstr ""

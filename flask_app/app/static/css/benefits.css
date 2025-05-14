@@ -1,0 +1,145 @@
+/* Стили для секции Benefits */
+.benefits {
+  position: relative;
+  padding: 100px 0;
+  overflow: hidden;
+  background-color: var(--dark-bg);
+}
+
+.benefits__header {
+  text-align: center;
+  margin-bottom: 60px;
+  position: relative;
+  z-index: 2;
+}
+
+.benefits__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  position: relative;
+  z-index: 2;
+}
+
+.benefit-card {
+  background-color: rgba(20, 20, 22, 0.5);
+  backdrop-filter: blur(15px);
+  border-radius: 10px;
+  border: 1px solid #2F2E37;
+  padding: 30px;
+  transition: all 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.benefit-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  border-color: rgba(161, 135, 50, 0.3);
+}
+
+.benefit-card--highlighted {
+  background-color: var(--purple);
+  border-color: var(--purple);
+}
+
+.benefit-card--highlighted .benefit-card__icon svg path {
+  stroke: var(--white);
+}
+
+.benefit-card__icon {
+  margin-bottom: 20px;
+}
+
+.benefit-card__title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--white);
+  margin-bottom: 15px;
+}
+
+.benefit-card__description {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--light-gray);
+  margin: 0;
+}
+
+.benefits__visuals {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.benefits__gradient-circle {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.2;
+}
+
+.benefits__gradient-circle--1 {
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(161, 135, 50, 0.4) 0%, rgba(20, 20, 22, 0.1) 70%);
+  top: 10%;
+  right: -100px;
+}
+
+.benefits__gradient-circle--2 {
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, rgba(135, 122, 225, 0.4) 0%, rgba(20, 20, 22, 0.1) 70%);
+  bottom: 10%;
+  left: -50px;
+}
+
+/* Адаптивные стили для секции Benefits */
+@media (max-width: 992px) {
+  .benefits__cards {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .benefits {
+    padding: 80px 0;
+  }
+  
+  .benefits__cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .benefit-card__title {
+    font-size: 20px;
+  }
+  
+  .benefit-card__description {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .benefits {
+    padding: 60px 0;
+  }
+  
+  .benefit-card {
+    padding: 20px;
+  }
+  
+  .benefit-card__title {
+    font-size: 18px;
+  }
+  
+  .benefit-card__description {
+    font-size: 14px;
+  }
+}

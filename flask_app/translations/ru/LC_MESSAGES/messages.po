@@ -1,0 +1,382 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-14 02:12+0400\n"
+"PO-Revision-Date: 2025-05-14 02:13+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+# Заголовки и надписи
+msgid "Megahash - Industrial Mining"
+msgstr "Megahash - Промышленный майнинг"
+
+msgid "All rights reserved"
+msgstr "Все права защищены"
+
+# Навигация в хедере
+msgid "About"
+msgstr "О компании"
+
+msgid "The benefits"
+msgstr "Преимущества"
+
+msgid "Plan"
+msgstr "План"
+
+msgid "FAQ"
+msgstr "Вопросы и ответы"
+
+msgid "Sign in"
+msgstr "Вход"
+
+# Выбор языка
+msgid "EN"
+msgstr "АНГ"
+
+msgid "RU"
+msgstr "РУС"
+
+# Hero секция
+msgid "Achieve your daily stable income"
+msgstr "Получайте стабильный доход каждый день"
+
+msgid "Explore unique opportunities. Harness the power of an industrial miner."
+msgstr ""
+"Откройте для себя уникальные возможности. Используйте мощь промышленного "
+"майнера."
+
+msgid "Get a consultation"
+msgstr "Получить консультацию"
+
+# About секция
+msgid "About Megahash"
+msgstr "О компании Megahash"
+
+msgid "Megahash is a leading mining company with industrial-scale operations"
+msgstr ""
+"Megahash - ведущая майнинговая компания с промышленными масштабами "
+"деятельности"
+
+msgid ""
+"Megahash Industrial Mining is a pioneer in the mining industry, providing "
+"innovative solutions with state-of-the-art equipment and cutting-edge "
+"technology."
+msgstr ""
+"Megahash Industrial Mining - пионер в майнинговой индустрии, "
+"предоставляющий инновационные решения с использованием современного "
+"оборудования и передовых технологий."
+
+msgid ""
+"Since our founding in 2018, we have been committed to excellence, "
+"offering our clients stable income opportunities through our industrial "
+"mining operations."
+msgstr ""
+"С момента основания в 2018 году мы стремимся к совершенству, предлагая "
+"нашим клиентам возможности стабильного дохода через наши промышленные "
+"майнинговые операции."
+
+msgid ""
+"Our team of experts has over 20 years of combined experience in the "
+"mining sector, ensuring optimal performance and maximized returns for all"
+" our partners."
+msgstr ""
+"Наша команда экспертов имеет более 20 лет совокупного опыта в секторе "
+"майнинга, обеспечивая оптимальную производительность и максимальную "
+"отдачу для всех наших партнеров."
+
+msgid "Discover our advantages"
+msgstr "Узнать о наших преимуществах"
+
+msgid "Years of experience"
+msgstr "Лет опыта"
+
+msgid "Active miners"
+msgstr "Активных майнеров"
+
+msgid "Uptime guarantee"
+msgstr "Гарантия бесперебойной работы"
+
+msgid "Technical support"
+msgstr "Техническая поддержка"
+
+msgid "The benefits we provide"
+msgstr "Преимущества, которые мы предоставляем"
+
+msgid "Why choose Megahash Industrial Mining"
+msgstr "Почему выбирают Megahash Industrial Mining"
+
+msgid "Effortless access to passive income"
+msgstr "Простой доступ к пассивному доходу"
+
+msgid ""
+"No need to dig deeper into complex technical details or invest in and set"
+" up sophisticated equipment. Just select the right plan to activate a "
+"consistent source of your passive income."
+msgstr ""
+"Нет необходимости углубляться в сложные технические детали или инвестировать "
+"в настройку сложного оборудования. Просто выберите подходящий план, чтобы "
+"активировать стабильный источник пассивного дохода."
+
+msgid "Return on investment surpassing traditional options"
+msgstr "Доходность инвестиций, превосходящая традиционные варианты"
+
+msgid ""
+"We collaborate with major mining pools, ensuring dependable service "
+"operation and – consequently – high ROI and consistent earnings."
+msgstr ""
+"Мы сотрудничаем с крупнейшими майнинговыми пулами, обеспечивая надежную "
+"работу сервиса и, как следствие, высокую рентабельность и стабильный доход."
+
+msgid "Security and peace of mind"
+msgstr "Безопасность и спокойствие"
+
+msgid ""
+"Your investments and passive income are securely safeguarded with skilled"
+" professionals overseeing the entire infrastructure."
+msgstr ""
+"Ваши инвестиции и пассивный доход надежно защищены квалифицированными "
+"специалистами, контролирующими всю инфраструктуру."
+
+msgid "Service transparency"
+msgstr "Прозрачность сервиса"
+
+msgid ""
+"The entire process is fully transparent for our clients. You can observe "
+"your rented resources' performance and track your earnings in your "
+"dashboard."
+msgstr ""
+"Весь процесс полностью прозрачен для наших клиентов. Вы можете наблюдать "
+"за производительностью арендованных ресурсов и отслеживать свой доход в "
+"личном кабинете."
+
+msgid "Flexibility"
+msgstr "Гибкость"
+
+msgid ""
+"Tailor your equipment rental conditions to meet your unique needs, with "
+"easy options for modifications as required."
+msgstr ""
+"Настройте условия аренды оборудования в соответствии с вашими уникальными "
+"потребностями, с возможностью внесения изменений по мере необходимости."
+
+# Plan секция
+msgid "How it works"
+msgstr "Как это работает"
+
+msgid "Follow simple steps to start earning passive income"
+msgstr "Следуйте простым шагам, чтобы начать получать пассивный доход"
+
+msgid "Create an account"
+msgstr "Создайте аккаунт"
+
+msgid ""
+"Register on our platform by providing basic information to set up your "
+"account. The process takes less than 5 minutes."
+msgstr ""
+"Зарегистрируйтесь на нашей платформе, предоставив базовую информацию для "
+"настройки вашего аккаунта. Процесс занимает менее 5 минут."
+
+msgid "Choose a mining plan"
+msgstr "Выберите план майнинга"
+
+msgid ""
+"Browse through our available plans and select the one that best fits your"
+" investment goals and budget requirements."
+msgstr ""
+"Просмотрите доступные планы и выберите тот, который лучше всего соответствует "
+"вашим инвестиционным целям и бюджетным требованиям."
+
+msgid "Make a payment"
+msgstr "Сделайте оплату"
+
+msgid ""
+"Complete your purchase using your preferred payment method. We support "
+"multiple cryptocurrencies and traditional payment options."
+msgstr ""
+"Завершите покупку, используя предпочтительный способ оплаты. Мы поддерживаем "
+"различные криптовалюты и традиционные способы оплаты."
+
+msgid "Start earning"
+msgstr "Начните зарабатывать"
+
+msgid ""
+"Your mining equipment starts working immediately after confirmation. "
+"Track your earnings in real-time through your personal dashboard."
+msgstr ""
+"Ваше майнинговое оборудование начинает работать сразу после подтверждения. "
+"Отслеживайте свой доход в режиме реального времени через личный кабинет."
+
+msgid "start mining now"
+msgstr "начать майнинг сейчас"
+
+msgid "No technical knowledge required"
+msgstr "Технические знания не требуются"
+
+# FAQ секция
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+msgid "Get answers to the most common questions about industrial mining"
+msgstr "Получите ответы на самые распространенные вопросы о промышленном майнинге"
+
+msgid "What is cryptocurrency mining?"
+msgstr "Что такое майнинг криптовалюты?"
+
+msgid ""
+"Cryptocurrency mining is the process by which new cryptocurrency tokens "
+"are created and transactions are verified and added to a blockchain. It "
+"involves using computer hardware to solve complex mathematical problems "
+"that validate and secure the network, in exchange for which miners "
+"receive newly minted coins."
+msgstr ""
+"Майнинг криптовалюты - это процесс, с помощью которого создаются новые "
+"токены криптовалюты, а транзакции проверяются и добавляются в блокчейн. "
+"Он включает использование компьютерного оборудования для решения сложных "
+"математических задач, которые проверяют и защищают сеть, в обмен на что "
+"майнеры получают новые монеты."
+
+msgid "How does Megahash Industrial Mining work?"
+msgstr "Как работает Megahash Industrial Mining?"
+
+msgid ""
+"Megahash Industrial Mining provides access to our state-of-the-art mining "
+"equipment through cloud mining contracts. We handle all the hardware "
+"setup, maintenance, and operational costs while you enjoy the mining "
+"rewards. You simply select a plan, make a payment, and start earning "
+"passive income from mining operations."
+msgstr ""
+"Megahash Industrial Mining предоставляет доступ к нашему современному "
+"майнинговому оборудованию через контракты облачного майнинга. Мы берем на "
+"себя всю настройку оборудования, обслуживание и эксплуатационные расходы, "
+"в то время как вы получаете вознаграждение за майнинг. Вы просто выбираете "
+"план, делаете оплату и начинаете получать пассивный доход от майнинговых "
+"операций."
+
+msgid "What cryptocurrencies can I mine through your service?"
+msgstr "Какие криптовалюты я могу майнить через ваш сервис?"
+
+msgid ""
+"Our service currently focuses on mining Bitcoin (BTC), Ethereum (ETH), "
+"and select other major cryptocurrencies with proven track records. We "
+"carefully choose the most profitable cryptocurrencies to mine based on "
+"market conditions and our advanced analytics."
+msgstr ""
+"Наш сервис в настоящее время сосредоточен на майнинге Bitcoin (BTC), "
+"Ethereum (ETH) и некоторых других основных криптовалют с проверенной "
+"историей. Мы тщательно выбираем наиболее прибыльные криптовалюты для "
+"майнинга на основе рыночных условий и нашей продвинутой аналитики."
+
+msgid "How quickly can I expect to see returns on my investment?"
+msgstr "Как быстро я могу ожидать возврата инвестиций?"
+
+msgid ""
+"You will begin to see returns immediately after your mining contract is "
+"activated, with earnings being credited to your account daily. However, "
+"keep in mind that cryptocurrency mining is a long-term investment. The "
+"actual returns depend on several factors including the plan you choose, "
+"current mining difficulty, and cryptocurrency price fluctuations."
+msgstr ""
+"Вы начнете видеть доходы сразу после активации вашего майнингового "
+"контракта, при этом заработок будет ежедневно зачисляться на ваш счет. "
+"Однако имейте в виду, что майнинг криптовалюты - это долгосрочная "
+"инвестиция. Фактическая доходность зависит от нескольких факторов, "
+"включая выбранный вами план, текущую сложность майнинга и колебания цен "
+"на криптовалюту."
+
+msgid "Is mining experience or technical knowledge required?"
+msgstr "Требуется ли опыт майнинга или технические знания?"
+
+msgid ""
+"No. We designed our service to be accessible to everyone, regardless of "
+"technical knowledge or mining experience. Our platform handles all the "
+"complex setup and maintenance tasks. You simply need to create an "
+"account, choose a plan, and make a payment. We take care of everything "
+"else."
+msgstr ""
+"Нет. Мы разработали наш сервис так, чтобы он был доступен каждому, "
+"независимо от технических знаний или опыта майнинга. Наша платформа "
+"выполняет все сложные задачи по настройке и обслуживанию. Вам просто "
+"нужно создать аккаунт, выбрать план и произвести оплату. Мы позаботимся "
+"обо всем остальном."
+
+msgid "How do I withdraw my earnings?"
+msgstr "Как я могу вывести свой заработок?"
+
+msgid ""
+"You can withdraw your earnings at any time through your dashboard. We "
+"support withdrawals to most major cryptocurrency wallets and exchanges. "
+"Minimum withdrawal amounts and processing times vary depending on the "
+"cryptocurrency being withdrawn and network conditions."
+msgstr ""
+"Вы можете вывести свой заработок в любое время через личный кабинет. Мы "
+"поддерживаем вывод средств на большинство основных криптовалютных "
+"кошельков и бирж. Минимальные суммы вывода и время обработки зависят от "
+"выводимой криптовалюты и условий сети."
+
+msgid "Have more questions? Contact us"
+msgstr "Есть еще вопросы? Свяжитесь с нами"
+
+# Footer секция
+msgid "Инновационные решения для промышленного майнинга. Мы предлагаем передовые технологии и экспертную поддержку для вашего бизнеса."
+msgstr "Инновационные решения для промышленного майнинга. Мы предлагаем передовые технологии и экспертную поддержку для вашего бизнеса."
+
+msgid "Навигация"
+msgstr "Навигация"
+
+msgid "О компании"
+msgstr "О компании"
+
+msgid "Преимущества"
+msgstr "Преимущества"
+
+msgid "План работы"
+msgstr "План работы"
+
+msgid "Вопросы и ответы"
+msgstr "Вопросы и ответы"
+
+msgid "Контакты"
+msgstr "Контакты"
+
+msgid "Услуги"
+msgstr "Услуги"
+
+msgid "Промышленный майнинг"
+msgstr "Промышленный майнинг"
+
+msgid "Консалтинг"
+msgstr "Консалтинг"
+
+msgid "Оборудование"
+msgstr "Оборудование"
+
+msgid "Обслуживание"
+msgstr "Обслуживание"
+
+msgid "Обучение"
+msgstr "Обучение"
+
+msgid "123456, Россия, г. Москва, ул. Примерная, д. 1, офис 123"
+msgstr "123456, Россия, г. Москва, ул. Примерная, д. 1, офис 123"
+
+msgid "Все права защищены."
+msgstr "Все права защищены."
+
+msgid "Политика конфиденциальности"
+msgstr "Политика конфиденциальности"
+
+msgid "Условия использования"
+msgstr "Условия использования"

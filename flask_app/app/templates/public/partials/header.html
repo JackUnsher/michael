@@ -1,0 +1,94 @@
+<header class="header">
+    <div class="container">
+        <div class="header__content">
+            <!-- Логотип -->
+            <div class="logo">
+                <a href="{{ url_for('public.index') }}">
+                    <div class="logo__icon">
+                        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8 8H32V32H8V8Z" fill="#A18732"/>
+                            <path d="M14 14H26V26H14V14Z" fill="#1E1E1E"/>
+                            <path d="M20 8V32" stroke="#A18732" stroke-width="2"/>
+                            <path d="M8 20H32" stroke="#A18732" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <span class="logo__text">MEGAHASH</span>
+                </a>
+            </div>
+            
+            <!-- Меню навигации -->
+            <nav class="nav">
+                <ul class="nav__menu">
+                    <li class="nav__item nav__item--active">
+                        <a href="#about" class="nav__link">{{ _('About') }}</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#benefits" class="nav__link">{{ _('The benefits') }}</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#plan" class="nav__link">{{ _('Plan') }}</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#faq" class="nav__link">{{ _('FAQ') }}</a>
+                    </li>
+                </ul>
+            </nav>
+            
+            <!-- Правая часть хедера (язык, кнопка входа) -->
+            <div class="header__actions">
+                <!-- Селектор языка -->
+                <div class="lang-selector">
+                    <div class="lang-selector__icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="#F1F1F3"/>
+                        </svg>
+                    </div>
+                    <div class="lang-selector__current">
+                        <span>{{ _('EN') }}</span>
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M4 6L8 10L12 6" stroke="#F1F1F3"/>
+                        </svg>
+                    </div>
+                    <div class="lang-selector__dropdown">
+                        <ul>
+                            <li><a href="?lang=en">{{ _('EN') }}</a></li>
+                            <li><a href="?lang=ru">{{ _('RU') }}</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Кнопка входа -->
+                <a href="#" class="btn btn--login">{{ _('Sign in') }}</a>
+                
+                <!-- Мобильное меню (гамбургер) -->
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Мобильное меню (выпадающее) -->
+    <div class="mobile-menu">
+        <ul class="mobile-menu__list">
+            <li class="mobile-menu__item mobile-menu__item--active">
+                <a href="#about" class="mobile-menu__link">{{ _('About') }}</a>
+            </li>
+            <li class="mobile-menu__item">
+                <a href="#benefits" class="mobile-menu__link">{{ _('The benefits') }}</a>
+            </li>
+            <li class="mobile-menu__item">
+                <a href="#plan" class="mobile-menu__link">{{ _('Plan') }}</a>
+            </li>
+            <li class="mobile-menu__item">
+                <a href="#faq" class="mobile-menu__link">{{ _('FAQ') }}</a>
+            </li>
+            <li class="mobile-menu__item mobile-menu__item--lang">
+                <a href="?lang=en" class="mobile-menu__link">{{ _('EN') }}</a>
+                <a href="?lang=ru" class="mobile-menu__link">{{ _('RU') }}</a>
+            </li>
+        </ul>
+    </div>
+</header>

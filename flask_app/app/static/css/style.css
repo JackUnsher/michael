@@ -1,0 +1,16 @@
+/* Основной файл стилей */
+
+/* Импорт базовых стилей */
+@import url('base.css');
+
+/* Импорт стилей для хедера */
+@import url('header.css');
+
+/* Импорт стилей для секций */
+@import url('hero.css');
+@import url('about.css');
+@import url('benefits.css');
+@import url('plan.css');
+@import url('faq.css');
+@import url('contact.css');
+@import url('footer.css');

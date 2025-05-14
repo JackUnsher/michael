@@ -1,0 +1,375 @@
+# English translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-14 02:12+0400\n"
+"PO-Revision-Date: 2025-05-14 02:14+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+# Заголовки и надписи
+msgid "Megahash - Industrial Mining"
+msgstr "Megahash - Industrial Mining"
+
+msgid "All rights reserved"
+msgstr "All rights reserved"
+
+# Навигация в хедере
+msgid "About"
+msgstr "About"
+
+msgid "The benefits"
+msgstr "The benefits"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Sign in"
+msgstr "Sign in"
+
+# Выбор языка
+msgid "EN"
+msgstr "EN"
+
+msgid "RU"
+msgstr "RU"
+
+# Hero секция
+msgid "Achieve your daily stable income"
+msgstr "Achieve your daily stable income"
+
+msgid "Explore unique opportunities. Harness the power of an industrial miner."
+msgstr "Explore unique opportunities. Harness the power of an industrial miner."
+
+msgid "Get a consultation"
+msgstr "Get a consultation"
+
+# About секция
+msgid "About Megahash"
+msgstr "About Megahash"
+
+msgid "Megahash is a leading mining company with industrial-scale operations"
+msgstr "Megahash is a leading mining company with industrial-scale operations"
+
+msgid ""
+"Megahash Industrial Mining is a pioneer in the mining industry, providing "
+"innovative solutions with state-of-the-art equipment and cutting-edge "
+"technology."
+msgstr ""
+"Megahash Industrial Mining is a pioneer in the mining industry, providing "
+"innovative solutions with state-of-the-art equipment and cutting-edge "
+"technology."
+
+msgid ""
+"Since our founding in 2018, we have been committed to excellence, "
+"offering our clients stable income opportunities through our industrial "
+"mining operations."
+msgstr ""
+"Since our founding in 2018, we have been committed to excellence, "
+"offering our clients stable income opportunities through our industrial "
+"mining operations."
+
+msgid ""
+"Our team of experts has over 20 years of combined experience in the "
+"mining sector, ensuring optimal performance and maximized returns for all"
+" our partners."
+msgstr ""
+"Our team of experts has over 20 years of combined experience in the "
+"mining sector, ensuring optimal performance and maximized returns for all"
+" our partners."
+
+msgid "Discover our advantages"
+msgstr "Discover our advantages"
+
+msgid "Years of experience"
+msgstr "Years of experience"
+
+msgid "Active miners"
+msgstr "Active miners"
+
+msgid "Uptime guarantee"
+msgstr "Uptime guarantee"
+
+msgid "Technical support"
+msgstr "Technical support"
+
+msgid "The benefits we provide"
+msgstr "The benefits we provide"
+
+msgid "Why choose Megahash Industrial Mining"
+msgstr "Why choose Megahash Industrial Mining"
+
+msgid "Effortless access to passive income"
+msgstr "Effortless access to passive income"
+
+msgid ""
+"No need to dig deeper into complex technical details or invest in and set"
+" up sophisticated equipment. Just select the right plan to activate a "
+"consistent source of your passive income."
+msgstr ""
+"No need to dig deeper into complex technical details or invest in and set"
+" up sophisticated equipment. Just select the right plan to activate a "
+"consistent source of your passive income."
+
+msgid "Return on investment surpassing traditional options"
+msgstr "Return on investment surpassing traditional options"
+
+msgid ""
+"We collaborate with major mining pools, ensuring dependable service "
+"operation and – consequently – high ROI and consistent earnings."
+msgstr ""
+"We collaborate with major mining pools, ensuring dependable service "
+"operation and – consequently – high ROI and consistent earnings."
+
+msgid "Security and peace of mind"
+msgstr "Security and peace of mind"
+
+msgid ""
+"Your investments and passive income are securely safeguarded with skilled"
+" professionals overseeing the entire infrastructure."
+msgstr ""
+"Your investments and passive income are securely safeguarded with skilled"
+" professionals overseeing the entire infrastructure."
+
+msgid "Service transparency"
+msgstr "Service transparency"
+
+msgid ""
+"The entire process is fully transparent for our clients. You can observe "
+"your rented resources' performance and track your earnings in your "
+"dashboard."
+msgstr ""
+"The entire process is fully transparent for our clients. You can observe "
+"your rented resources' performance and track your earnings in your "
+"dashboard."
+
+msgid "Flexibility"
+msgstr "Flexibility"
+
+msgid ""
+"Tailor your equipment rental conditions to meet your unique needs, with "
+"easy options for modifications as required."
+msgstr ""
+"Tailor your equipment rental conditions to meet your unique needs, with "
+"easy options for modifications as required."
+
+# Plan секция
+msgid "How it works"
+msgstr "How it works"
+
+msgid "Follow simple steps to start earning passive income"
+msgstr "Follow simple steps to start earning passive income"
+
+msgid "Create an account"
+msgstr "Create an account"
+
+msgid ""
+"Register on our platform by providing basic information to set up your "
+"account. The process takes less than 5 minutes."
+msgstr ""
+"Register on our platform by providing basic information to set up your "
+"account. The process takes less than 5 minutes."
+
+msgid "Choose a mining plan"
+msgstr "Choose a mining plan"
+
+msgid ""
+"Browse through our available plans and select the one that best fits your"
+" investment goals and budget requirements."
+msgstr ""
+"Browse through our available plans and select the one that best fits your"
+" investment goals and budget requirements."
+
+msgid "Make a payment"
+msgstr "Make a payment"
+
+msgid ""
+"Complete your purchase using your preferred payment method. We support "
+"multiple cryptocurrencies and traditional payment options."
+msgstr ""
+"Complete your purchase using your preferred payment method. We support "
+"multiple cryptocurrencies and traditional payment options."
+
+msgid "Start earning"
+msgstr "Start earning"
+
+msgid ""
+"Your mining equipment starts working immediately after confirmation. "
+"Track your earnings in real-time through your personal dashboard."
+msgstr ""
+"Your mining equipment starts working immediately after confirmation. "
+"Track your earnings in real-time through your personal dashboard."
+
+msgid "start mining now"
+msgstr "start mining now"
+
+msgid "No technical knowledge required"
+msgstr "No technical knowledge required"
+
+# FAQ секция
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+msgid "Get answers to the most common questions about industrial mining"
+msgstr "Get answers to the most common questions about industrial mining"
+
+msgid "What is cryptocurrency mining?"
+msgstr "What is cryptocurrency mining?"
+
+msgid ""
+"Cryptocurrency mining is the process by which new cryptocurrency tokens "
+"are created and transactions are verified and added to a blockchain. It "
+"involves using computer hardware to solve complex mathematical problems "
+"that validate and secure the network, in exchange for which miners "
+"receive newly minted coins."
+msgstr ""
+"Cryptocurrency mining is the process by which new cryptocurrency tokens "
+"are created and transactions are verified and added to a blockchain. It "
+"involves using computer hardware to solve complex mathematical problems "
+"that validate and secure the network, in exchange for which miners "
+"receive newly minted coins."
+
+msgid "How does Megahash Industrial Mining work?"
+msgstr "How does Megahash Industrial Mining work?"
+
+msgid ""
+"Megahash Industrial Mining provides access to our state-of-the-art mining "
+"equipment through cloud mining contracts. We handle all the hardware "
+"setup, maintenance, and operational costs while you enjoy the mining "
+"rewards. You simply select a plan, make a payment, and start earning "
+"passive income from mining operations."
+msgstr ""
+"Megahash Industrial Mining provides access to our state-of-the-art mining "
+"equipment through cloud mining contracts. We handle all the hardware "
+"setup, maintenance, and operational costs while you enjoy the mining "
+"rewards. You simply select a plan, make a payment, and start earning "
+"passive income from mining operations."
+
+msgid "What cryptocurrencies can I mine through your service?"
+msgstr "What cryptocurrencies can I mine through your service?"
+
+msgid ""
+"Our service currently focuses on mining Bitcoin (BTC), Ethereum (ETH), "
+"and select other major cryptocurrencies with proven track records. We "
+"carefully choose the most profitable cryptocurrencies to mine based on "
+"market conditions and our advanced analytics."
+msgstr ""
+"Our service currently focuses on mining Bitcoin (BTC), Ethereum (ETH), "
+"and select other major cryptocurrencies with proven track records. We "
+"carefully choose the most profitable cryptocurrencies to mine based on "
+"market conditions and our advanced analytics."
+
+msgid "How quickly can I expect to see returns on my investment?"
+msgstr "How quickly can I expect to see returns on my investment?"
+
+msgid ""
+"You will begin to see returns immediately after your mining contract is "
+"activated, with earnings being credited to your account daily. However, "
+"keep in mind that cryptocurrency mining is a long-term investment. The "
+"actual returns depend on several factors including the plan you choose, "
+"current mining difficulty, and cryptocurrency price fluctuations."
+msgstr ""
+"You will begin to see returns immediately after your mining contract is "
+"activated, with earnings being credited to your account daily. However, "
+"keep in mind that cryptocurrency mining is a long-term investment. The "
+"actual returns depend on several factors including the plan you choose, "
+"current mining difficulty, and cryptocurrency price fluctuations."
+
+msgid "Is mining experience or technical knowledge required?"
+msgstr "Is mining experience or technical knowledge required?"
+
+msgid ""
+"No. We designed our service to be accessible to everyone, regardless of "
+"technical knowledge or mining experience. Our platform handles all the "
+"complex setup and maintenance tasks. You simply need to create an "
+"account, choose a plan, and make a payment. We take care of everything "
+"else."
+msgstr ""
+"No. We designed our service to be accessible to everyone, regardless of "
+"technical knowledge or mining experience. Our platform handles all the "
+"complex setup and maintenance tasks. You simply need to create an "
+"account, choose a plan, and make a payment. We take care of everything "
+"else."
+
+msgid "How do I withdraw my earnings?"
+msgstr "How do I withdraw my earnings?"
+
+msgid ""
+"You can withdraw your earnings at any time through your dashboard. We "
+"support withdrawals to most major cryptocurrency wallets and exchanges. "
+"Minimum withdrawal amounts and processing times vary depending on the "
+"cryptocurrency being withdrawn and network conditions."
+msgstr ""
+"You can withdraw your earnings at any time through your dashboard. We "
+"support withdrawals to most major cryptocurrency wallets and exchanges. "
+"Minimum withdrawal amounts and processing times vary depending on the "
+"cryptocurrency being withdrawn and network conditions."
+
+msgid "Have more questions? Contact us"
+msgstr "Have more questions? Contact us"
+
+# Footer секция
+msgid "Инновационные решения для промышленного майнинга. Мы предлагаем передовые технологии и экспертную поддержку для вашего бизнеса."
+msgstr "Innovative solutions for industrial mining. We offer cutting-edge technologies and expert support for your business."
+
+msgid "Навигация"
+msgstr "Navigation"
+
+msgid "О компании"
+msgstr "About"
+
+msgid "Преимущества"
+msgstr "Benefits"
+
+msgid "План работы"
+msgstr "Work Plan"
+
+msgid "Вопросы и ответы"
+msgstr "FAQ"
+
+msgid "Контакты"
+msgstr "Contacts"
+
+msgid "Услуги"
+msgstr "Services"
+
+msgid "Промышленный майнинг"
+msgstr "Industrial Mining"
+
+msgid "Консалтинг"
+msgstr "Consulting"
+
+msgid "Оборудование"
+msgstr "Equipment"
+
+msgid "Обслуживание"
+msgstr "Maintenance"
+
+msgid "Обучение"
+msgstr "Training"
+
+msgid "123456, Россия, г. Москва, ул. Примерная, д. 1, офис 123"
+msgstr "123456, Russia, Moscow, Sample St., 1, office 123"
+
+msgid "Все права защищены."
+msgstr "All rights reserved."
+
+msgid "Политика конфиденциальности"
+msgstr "Privacy Policy"
+
+msgid "Условия использования"
+msgstr "Terms of Use"
