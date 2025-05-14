@@ -1,10 +1,8 @@
 from setuptools import setup, find_packages
 
-__version__ = '1.0.0'
-
 setup(
     name="megahash",
-    version=__version__,
+    version="1.0.0",
     packages=find_packages(),
     install_requires=[
         "Flask==2.2.5",
@@ -28,4 +26,6 @@ setup(
         "gunicorn==20.1.0",
     ],
     python_requires='>=3.8',
+    include_package_data=True,
+    zip_safe=False
 )
